@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="expense-tracker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/expense-tracker.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
